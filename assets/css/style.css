@@ -469,7 +469,7 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgba(0, 0, 0, 0.253);
+  background: rgba(20, 6, 19, 0.404);
 }
 
 .facts .count-box i {
@@ -1050,7 +1050,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: rgba(27, 27, 27, 0.733);
+  background: rgba(20, 6, 19, 0.404);
 }
 
 /* .contact .container .row {
@@ -1105,7 +1105,7 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: rgba(27, 27, 27, 0.733);
+  background: rgba(20, 6, 19, 0.404);
   padding: 2em;
   height: 100%;
 }
